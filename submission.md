@@ -2,7 +2,7 @@
 
 - **GitHub:** isiahmello24-beep
 - **Email:** iluna0855@sdsu.edu
-- **Private repo (code + README + video):** https://github.com/isiahmello24-beep/JSB_grade_2_interview_problem
+- **Private repo (code + README; walkthrough video to be added):** https://github.com/isiahmello24-beep/JSB_grade_2_interview_problem
 - philipamadasun1@gmail.com has been invited as a collaborator on the private repo.
 
 ## What's inside
